@@ -25,4 +25,22 @@ class Solution:
         return s.lower()
         
 
+# Second Way To Solve 
+class Solution:
+    def toLowerCase(self, s: str) -> str:
 
+
+        # use ASCII numbers
+        res = ""
+        for c in s:
+            if c.isalpha():
+                value = ord(c) - ord('A')
+                
+                if value < 26:
+                    res += chr(value + ord('a'))
+                else:
+                    res += c
+            else:
+                res += c
+
+        return res
