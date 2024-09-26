@@ -30,3 +30,20 @@ Output: false
 Explanation: The two events do not intersect.
 
 '''
+
+
+class Solution:
+    def haveConflict(self, event1: List[str], event2: List[str]) -> bool:
+        def convert_to_minutes(time_str):
+            hours, minutes = map(int, time_str.split(":"))
+            return hours * 60 + minutes
+        
+        start1 = convert_to_minutes(event1[0])
+        end1 = convert_to_minutes(event1[1])
+        start2 = convert_to_minutes(event2[0])
+        end2 = convert_to_minutes(event2[1])
+        
+        
+        return start1 <= end2 and start2 <= end1
+
+
