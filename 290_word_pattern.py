@@ -37,3 +37,28 @@ Input: pattern = "aaaa", s = "dog cat cat dog"
 Output: false
 """
 
+class Solution:
+    def wordPattern(self, pattern: str, s: str) -> bool:
+        words_arr = s.split()
+        if len(pattern)!=len(words_arr):
+            return False
+            
+        temp = {}
+        for i in range(len(pattern)):
+            if pattern[i] not in temp:
+                temp[pattern[i]]=words_arr[i]
+
+            else:
+                if temp[pattern[i]]!=words_arr[i]:
+                    return False
+
+        temp_value = set()
+        for key,value in temp.items():
+            if value not in temp_value:
+                temp_value.add(value)
+            else:
+                return False
+
+        return True
+        
+
