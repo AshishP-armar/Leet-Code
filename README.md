@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/AshishP-armar/Leet-Code/tree/master/1497-design-a-stack-with-increment-operation) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/AshishP-armar/Leet-Code/tree/master/3397-find-the-integer-added-to-array-i) |
 ## Math
 |  |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/AshishP-armar/Leet-Code/tree/master/0577-employee-bonus) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/AshishP-armar/Leet-Code/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/AshishP-armar/Leet-Code/tree/master/1801-average-time-of-process-per-machine) |
+## Stack
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/AshishP-armar/Leet-Code/tree/master/1497-design-a-stack-with-increment-operation) |
+## Design
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/AshishP-armar/Leet-Code/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
