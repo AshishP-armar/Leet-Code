@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AshishP-armar/Leet-Code/tree/master/1497-design-a-stack-with-increment-operation) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/AshishP-armar/Leet-Code/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/AshishP-armar/Leet-Code/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Math
 |  |
 | ------- |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AshishP-armar/Leet-Code/tree/master/1497-design-a-stack-with-increment-operation) |
+## Hash Table
+|  |
+| ------- |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/AshishP-armar/Leet-Code/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+## Counting
+|  |
+| ------- |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/AshishP-armar/Leet-Code/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 <!---LeetCode Topics End-->
