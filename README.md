@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/AshishP-armar/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AshishP-armar/Leet-Code/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/AshishP-armar/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/AshishP-armar/Leet-Code/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/AshishP-armar/Leet-Code/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Math
@@ -45,4 +46,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/AshishP-armar/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/AshishP-armar/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
+## Binary Search
+|  |
+| ------- |
+| [2210-find-target-indices-after-sorting-array](https://github.com/AshishP-armar/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
