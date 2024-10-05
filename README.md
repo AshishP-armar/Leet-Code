@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3371-harshad-number](https://github.com/AshishP-armar/Leet-Code/tree/master/3371-harshad-number) |
 | [3567-convert-date-to-binary](https://github.com/AshishP-armar/Leet-Code/tree/master/3567-convert-date-to-binary) |
 ## String
 |  |
