@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/AshishP-armar/Leet-Code/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AshishP-armar/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AshishP-armar/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3221-find-the-peaks](https://github.com/AshishP-armar/Leet-Code/tree/master/3221-find-the-peaks) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/AshishP-armar/Leet-Code/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/AshishP-armar/Leet-Code/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Math
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AshishP-armar/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/AshishP-armar/Leet-Code/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
