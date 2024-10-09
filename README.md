@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AshishP-armar/Leet-Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3312-number-of-changing-keys](https://github.com/AshishP-armar/Leet-Code/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/AshishP-armar/Leet-Code/tree/master/3379-score-of-a-string) |
 | [3567-convert-date-to-binary](https://github.com/AshishP-armar/Leet-Code/tree/master/3567-convert-date-to-binary) |
 ## Database
