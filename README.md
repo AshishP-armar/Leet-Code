@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1002-maximum-width-ramp](https://github.com/AshishP-armar/Leet-Code/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/AshishP-armar/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AshishP-armar/Leet-Code/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AshishP-armar/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1002-maximum-width-ramp](https://github.com/AshishP-armar/Leet-Code/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AshishP-armar/Leet-Code/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AshishP-armar/Leet-Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AshishP-armar/Leet-Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/AshishP-armar/Leet-Code/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
