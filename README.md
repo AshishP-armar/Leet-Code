@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AshishP-armar/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/AshishP-armar/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AshishP-armar/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0670-maximum-swap](https://github.com/AshishP-armar/Leet-Code/tree/master/0670-maximum-swap) |
 | [3371-harshad-number](https://github.com/AshishP-armar/Leet-Code/tree/master/3371-harshad-number) |
 | [3567-convert-date-to-binary](https://github.com/AshishP-armar/Leet-Code/tree/master/3567-convert-date-to-binary) |
 ## String
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AshishP-armar/Leet-Code/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/AshishP-armar/Leet-Code/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/AshishP-armar/Leet-Code/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AshishP-armar/Leet-Code/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sliding Window
