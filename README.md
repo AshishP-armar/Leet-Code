@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AshishP-armar/Leet-Code/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/AshishP-armar/Leet-Code/tree/master/0283-move-zeroes) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AshishP-armar/Leet-Code/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1002-maximum-width-ramp](https://github.com/AshishP-armar/Leet-Code/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/AshishP-armar/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/AshishP-armar/Leet-Code/tree/master/0283-move-zeroes) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AshishP-armar/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Enumeration
 |  |
