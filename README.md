@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/AshishP-armar/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AshishP-armar/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AshishP-armar/Leet-Code/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/AshishP-armar/Leet-Code/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3221-find-the-peaks](https://github.com/AshishP-armar/Leet-Code/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AshishP-armar/Leet-Code/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/AshishP-armar/Leet-Code/tree/master/3324-split-the-array) |
