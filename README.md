@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AshishP-armar/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AshishP-armar/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AshishP-armar/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/AshishP-armar/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/AshishP-armar/Leet-Code/tree/master/0500-keyboard-row) |
 | [1304-longest-happy-string](https://github.com/AshishP-armar/Leet-Code/tree/master/1304-longest-happy-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AshishP-armar/Leet-Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AshishP-armar/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AshishP-armar/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/AshishP-armar/Leet-Code/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/AshishP-armar/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/AshishP-armar/Leet-Code/tree/master/0500-keyboard-row) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AshishP-armar/Leet-Code/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/AshishP-armar/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AshishP-armar/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AshishP-armar/Leet-Code/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/AshishP-armar/Leet-Code/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/AshishP-armar/Leet-Code/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AshishP-armar/Leet-Code/tree/master/0268-missing-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AshishP-armar/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
