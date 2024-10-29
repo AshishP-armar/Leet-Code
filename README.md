@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AshishP-armar/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AshishP-armar/Leet-Code/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AshishP-armar/Leet-Code/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/AshishP-armar/Leet-Code/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/AshishP-armar/Leet-Code/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3221-find-the-peaks](https://github.com/AshishP-armar/Leet-Code/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AshishP-armar/Leet-Code/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -164,4 +165,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/AshishP-armar/Leet-Code/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/AshishP-armar/Leet-Code/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/AshishP-armar/Leet-Code/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 <!---LeetCode Topics End-->
