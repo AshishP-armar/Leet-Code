@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AshishP-armar/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/AshishP-armar/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AshishP-armar/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0263-ugly-number](https://github.com/AshishP-armar/Leet-Code/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/AshishP-armar/Leet-Code/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/AshishP-armar/Leet-Code/tree/master/0670-maximum-swap) |
 | [3371-harshad-number](https://github.com/AshishP-armar/Leet-Code/tree/master/3371-harshad-number) |
