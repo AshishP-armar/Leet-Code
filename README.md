@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AshishP-armar/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AshishP-armar/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/AshishP-armar/Leet-Code/tree/master/0500-keyboard-row) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/AshishP-armar/Leet-Code/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/AshishP-armar/Leet-Code/tree/master/1304-longest-happy-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AshishP-armar/Leet-Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3312-number-of-changing-keys](https://github.com/AshishP-armar/Leet-Code/tree/master/3312-number-of-changing-keys) |
