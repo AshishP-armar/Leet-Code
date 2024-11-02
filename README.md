@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/AshishP-armar/Leet-Code/tree/master/0500-keyboard-row) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AshishP-armar/Leet-Code/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/AshishP-armar/Leet-Code/tree/master/1304-longest-happy-string) |
+| [2580-circular-sentence](https://github.com/AshishP-armar/Leet-Code/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AshishP-armar/Leet-Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3312-number-of-changing-keys](https://github.com/AshishP-armar/Leet-Code/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/AshishP-armar/Leet-Code/tree/master/3379-score-of-a-string) |
