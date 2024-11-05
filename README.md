@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AshishP-armar/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/AshishP-armar/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AshishP-armar/Leet-Code/tree/master/0283-move-zeroes) |
 | [0500-keyboard-row](https://github.com/AshishP-armar/Leet-Code/tree/master/0500-keyboard-row) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AshishP-armar/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/AshishP-armar/Leet-Code/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/AshishP-armar/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AshishP-armar/Leet-Code/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AshishP-armar/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/AshishP-armar/Leet-Code/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AshishP-armar/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AshishP-armar/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
