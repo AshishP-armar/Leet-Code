@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/AshishP-armar/Leet-Code/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/AshishP-armar/Leet-Code/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/AshishP-armar/Leet-Code/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AshishP-armar/Leet-Code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AshishP-armar/Leet-Code/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Math
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/AshishP-armar/Leet-Code/tree/master/0670-maximum-swap) |
 | [3371-harshad-number](https://github.com/AshishP-armar/Leet-Code/tree/master/3371-harshad-number) |
 | [3567-convert-date-to-binary](https://github.com/AshishP-armar/Leet-Code/tree/master/3567-convert-date-to-binary) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AshishP-armar/Leet-Code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AshishP-armar/Leet-Code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/AshishP-armar/Leet-Code/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/AshishP-armar/Leet-Code/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/AshishP-armar/Leet-Code/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AshishP-armar/Leet-Code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AshishP-armar/Leet-Code/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Counting
 |  |
