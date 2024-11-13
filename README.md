@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AshishP-armar/Leet-Code/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/AshishP-armar/Leet-Code/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/AshishP-armar/Leet-Code/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AshishP-armar/Leet-Code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3221-find-the-peaks](https://github.com/AshishP-armar/Leet-Code/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AshishP-armar/Leet-Code/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/AshishP-armar/Leet-Code/tree/master/3324-split-the-array) |
@@ -117,12 +118,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/AshishP-armar/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AshishP-armar/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AshishP-armar/Leet-Code/tree/master/2586-longest-square-streak-in-an-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AshishP-armar/Leet-Code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AshishP-armar/Leet-Code/tree/master/0268-missing-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AshishP-armar/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AshishP-armar/Leet-Code/tree/master/2586-longest-square-streak-in-an-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AshishP-armar/Leet-Code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AshishP-armar/Leet-Code/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AshishP-armar/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AshishP-armar/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AshishP-armar/Leet-Code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Enumeration
 |  |
 | ------- |
