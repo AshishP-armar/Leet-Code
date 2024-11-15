@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AshishP-armar/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/AshishP-armar/Leet-Code/tree/master/0500-keyboard-row) |
 | [0812-rotate-string](https://github.com/AshishP-armar/Leet-Code/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/AshishP-armar/Leet-Code/tree/master/0874-backspace-string-compare) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AshishP-armar/Leet-Code/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/AshishP-armar/Leet-Code/tree/master/1304-longest-happy-string) |
 | [2580-circular-sentence](https://github.com/AshishP-armar/Leet-Code/tree/master/2580-circular-sentence) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/AshishP-armar/Leet-Code/tree/master/0874-backspace-string-compare) |
 | [1002-maximum-width-ramp](https://github.com/AshishP-armar/Leet-Code/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AshishP-armar/Leet-Code/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AshishP-armar/Leet-Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AshishP-armar/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/AshishP-armar/Leet-Code/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AshishP-armar/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0874-backspace-string-compare](https://github.com/AshishP-armar/Leet-Code/tree/master/0874-backspace-string-compare) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AshishP-armar/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AshishP-armar/Leet-Code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Enumeration
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/AshishP-armar/Leet-Code/tree/master/0874-backspace-string-compare) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AshishP-armar/Leet-Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AshishP-armar/Leet-Code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Monotonic Stack
