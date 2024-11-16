@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AshishP-armar/Leet-Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3312-number-of-changing-keys](https://github.com/AshishP-armar/Leet-Code/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/AshishP-armar/Leet-Code/tree/master/3379-score-of-a-string) |
+| [3396-valid-word](https://github.com/AshishP-armar/Leet-Code/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/AshishP-armar/Leet-Code/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3451-string-compression-iii](https://github.com/AshishP-armar/Leet-Code/tree/master/3451-string-compression-iii) |
 | [3567-convert-date-to-binary](https://github.com/AshishP-armar/Leet-Code/tree/master/3567-convert-date-to-binary) |
