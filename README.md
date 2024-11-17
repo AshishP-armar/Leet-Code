@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AshishP-armar/Leet-Code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AshishP-armar/Leet-Code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/AshishP-armar/Leet-Code/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/AshishP-armar/Leet-Code/tree/master/3626-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/AshishP-armar/Leet-Code/tree/master/3221-find-the-peaks) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/AshishP-armar/Leet-Code/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
 | ------- |
