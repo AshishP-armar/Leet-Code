@@ -4,6 +4,4 @@ class Solution:
         for i in range(len(num)-1,-1,-1):
             if num[i] in odd:
                 return num[0:i+1]
-        print(num[0] in odd)
-        
         return ""
