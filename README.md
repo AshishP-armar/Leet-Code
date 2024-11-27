@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/AshishP-armar/Leet-Code/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/AshishP-armar/Leet-Code/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/AshishP-armar/Leet-Code/tree/master/0670-maximum-swap) |
+| [2032-largest-odd-number-in-string](https://github.com/AshishP-armar/Leet-Code/tree/master/2032-largest-odd-number-in-string) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AshishP-armar/Leet-Code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/AshishP-armar/Leet-Code/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AshishP-armar/Leet-Code/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/AshishP-armar/Leet-Code/tree/master/0874-backspace-string-compare) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AshishP-armar/Leet-Code/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/AshishP-armar/Leet-Code/tree/master/1304-longest-happy-string) |
+| [2032-largest-odd-number-in-string](https://github.com/AshishP-armar/Leet-Code/tree/master/2032-largest-odd-number-in-string) |
 | [2580-circular-sentence](https://github.com/AshishP-armar/Leet-Code/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AshishP-armar/Leet-Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3312-number-of-changing-keys](https://github.com/AshishP-armar/Leet-Code/tree/master/3312-number-of-changing-keys) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AshishP-armar/Leet-Code/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/AshishP-armar/Leet-Code/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/AshishP-armar/Leet-Code/tree/master/1304-longest-happy-string) |
+| [2032-largest-odd-number-in-string](https://github.com/AshishP-armar/Leet-Code/tree/master/2032-largest-odd-number-in-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AshishP-armar/Leet-Code/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sliding Window
 |  |
