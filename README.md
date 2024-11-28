@@ -191,10 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AshishP-armar/Leet-Code/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/AshishP-armar/Leet-Code/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AshishP-armar/Leet-Code/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/AshishP-armar/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AshishP-armar/Leet-Code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
